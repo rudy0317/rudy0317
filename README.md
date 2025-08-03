@@ -45,7 +45,10 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP8266-2C3E50?style=flat"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
+
 
 ---
 
