@@ -1,6 +1,6 @@
 <!-- 🔥 Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2c96f7&height=200&section=header&text=Rudy.exe&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2c96f7&height=200&section=header&text=Rudy&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h2 align="center">🛰️ Network Dev • 🧠 Code Hacker • 🛠️ Cyberpunk Engineer</h2>
@@ -9,8 +9,7 @@
 
 <!-- 🧠 Avatar -->
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/6e40c9/motherboard.png" width="100"
- alt="Network Avatar"/>
+  <img src="assets/avatar.png" width="250" style="border-radius:50%" alt="Avatar Rudy"/>
 </p>
 
 ---
