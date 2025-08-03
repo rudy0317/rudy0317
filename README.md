@@ -1,42 +1,56 @@
 <!-- 🔥 Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2c96f7&height=200&section=header&text=Hi%20I'm%20Rudy!&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2c96f7&height=200&section=header&text=Rudy.exe&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">👋 Informatics Engineering Student | 💻 Code Bender | 🔧 Tech Tinkerer</h2>
+<h2 align="center">🛰️ Network Dev • 🧠 Code Hacker • 🛠️ Cyberpunk Engineer</h2>
 
 ---
 
-<!-- 🎴 Comic Dev Card -->
-<h2 align="center">💻 Developer Card - Rudy</h2>
+<!-- 🧠 Avatar -->
+<p align="center">
+  <img src="https://img.icons8.com/ios-filled/100/6e40c9/motherboard.png" width="100"
+ alt="Network Avatar"/>
+</p>
+
+---
+
+<!-- 🎴 Cyber Dev Card -->
+<h2 align="center">🦾 System Identity -Ｇ̨͓͈̩͙̪̬̥͔̝̪̟̥̯̚̕͟͠͠͠͝͝r̴̴͜͞u̶̘͓̫͈͔͉̮̲̱̼̲̞͜͜͜͠͝͞͠ͅͅͅͅd̵̸̛͎̮̰̮͍̠͜͜͢͝͠͞͠͠͠y̶̸͇͎̝̼̞̱͍͍̳̼͜͠͠.̼͓̟̬͓̲̜̮͍̱͖͔̥̰̠̳͕͇̳͘͟͟͢͟͝͞͝͝ͅe̴͖̞͎̤̳̜̤̠̞̩͕͎̯̮͕͚̮̫̟͎̳̲̙͉͙͙̱͍̮͜͜͢͡͝͠͞͞͞ͅx̴̨͕̝̘̮̥̙̼̘̘͉̝̺͓̫̟̰̪̼͓̞̲̠͚͓͟͟͞͠͝͠͝͝ͅͅͅe̷͔͎͕̥̬̩̦̺͍̫͍̜̘͓͕̟͚̠͇͎͕͟͠</h2>
 
 <p align="center">
   
 🪪 <strong>Alias:</strong> <code>rudy</code><br>
-🎓 <strong>Class:</strong> Informatics Engineering Student<br>
-🎮 <strong>Skills:</strong> PyQt5 | SQLite | Arduino | ESP8266 | Python | PHP | JavaScript<br>
-🔧 <strong>Current Build:</strong> UMKM Product Catalog App v1.0<br>
-🧪 <strong>Perks:</strong> Debugging Mastery, UI Wizardry, Serial Monitor Whisperer<br>
-🎯 <strong>Ultimate:</strong> “AI-assisted CRUD deployment”<br>
-
-<br>
-
-🗺️ <strong>Map Location:</strong> 🏡 Indonesia<br>
-📡 <strong>Status:</strong> Actively Developing...<br>
-☕ <strong>Buffs:</strong> 1x Kopi Tubruk | 2x Niat | 99x Ctrl+Z<br>
-📅 <strong>Questline:</strong> Capstone Project — <em>Integrate or die trying</em><br>
+💾 <strong>Role:</strong> Informatics Engineer | Network Tinkerer<br>
+🎮 <strong>Skills:</strong> Python | PyQt5 | SQLite | ESP8266 | Arduino | PHP | JS | Mikrotik<br>
+🧰 <strong>Framework:</strong> UMKM Catalog App v1.0 (PyQt5+SQLite)<br>
+🔬 <strong>Perks:</strong> AI CRUD Deployment | UI Mutator | Debugging Tank<br>
+🧠 <strong>Passive:</strong> Serial Monitor Instinct<br>
+📡 <strong>Status:</strong> Active in dev-net @Indonesia<br>
+☕ <strong>Buffs:</strong> 3x Kopi Tubruk | 7x StackOverflow | 1x CTRL+ALT+Z<br>
+📅 <strong>Mission:</strong> Final Capstone — <em>“Integrate or Die Trying”</em><br>
 
 <br>
 
 ✨ <strong>Catchphrase:</strong><br>
-<code>"Break it. Fix it. Learn it. Repeat."</code>
+<code>"Hack. Patch. Deploy. Repeat."</code>
 
+</p>
+
+---
+
+<!-- 💠 QR LinkedIn -->
+<h2 align="center">🔗 Neural Link</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudyyy">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://www.linkedin.com/in/rudyyy&size=150x150" alt="QR Code to LinkedIn" />
+  </a>
 </p>
 
 ---
 
 <!-- ⚙️ Tech Stack -->
-### 🧰 Tech Stack
+### ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -47,8 +61,11 @@
   <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-</p>
+  <img src="https://img.shields.io/badge/MikroTik-000000?style=flat&logo=raspberrypi&logoColor=white" alt="MikroTik Badge" />
+  <img src="https://img.shields.io/badge/Ruijie-cc0000?style=flat&logo=redhat&logoColor=white" alt="Ruijie Badge" />
 
+
+</p>
 
 ---
 
