@@ -8,7 +8,7 @@
 ---
 
 <!-- 🎴 Comic Dev Card -->
-<h2 align="center">💻 Developer Card - Rudy.exe</h2>
+<h2 align="center">💻 Developer Card - Rudy</h2>
 
 <p align="center">
   
