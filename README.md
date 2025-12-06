@@ -68,13 +68,6 @@
 
 ---
 
-<!-- 📊 Stats -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudy0317&show_icons=true&theme=tokyonight&cache_seconds=60" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudy0317&layout=compact&theme=tokyonight" />
- 
 
 </p>
 
