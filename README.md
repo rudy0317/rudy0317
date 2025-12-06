@@ -12,17 +12,19 @@
 
 ## 🦾 System Identity
 
-> Side Quest: survive the network, survive the deadline.
+> Side Quest: survive the network, survive the deadline.  
+> Main Quest: pretend everything is fine.
 
 **Buffs Applied:**
-- ☕ **3x Kopi Tubruk** (Stamina +10)
-- 🔧 **7x StackOverflow** (Wisdom +50)
-- 🔄 **CTRL+ALT+Z** (Undo Reality)
-- ⌛ **Latency Immunity** (Experimental)
+- ☕ **3x Kopi Tubruk** (Brain Overclock)
+- 🔧 **7x StackOverflow** (Ancient Wisdom)
+- 🔄 **CTRL+ALT+Z** (Time Reversal)
+- ⌛ **Latency Immunity** (Beta, unstable)
 
 **Passives:**
 - Serial Monitor Instinct
 - Can smell burned PCB from 30 meters
+- +5 sarcasm when bug appears
 
 ---
 
@@ -30,13 +32,16 @@
 
 🪪 **Alias:** `rudy`  
 🧭 **Class:** Informatics Engineer  
-🛰️ **Specialty:** Systems that shouldn’t work… working anyway
+🛰️ **Specialty:** Making systems that shouldn't work… work anyway
 
 🧠 **Skill Tree:**
 - Python / PyQt5 / SQLite
 - Arduino / ESP8266
 - MikroTik / Ruijie
-- Debugging at 2 AM with coffee and regret
+- Debugging at 2 AM with coffee & regret
+
+🧯 **Ultimate:**
+fix: I don't know how, but it works now
 
 ---
 
@@ -50,8 +55,20 @@ Everything must talk:
 - Sensors
 - Databases
 
-If they don’t…  
-I make them.
+If they don’t communicate?
+I stand behind them with coffee and threats.
+
+---
+
+## ⚡ Personality Patch Notes
+
+- Calm under pressure  
+- Laughs at error messages  
+- Treats warnings as friendly suggestions  
+- Believes documentation is optional if intuition is high enough
+
+If system goes boom:
+> “Cool, new challenge.”
 
 ---
 
@@ -59,7 +76,8 @@ I make them.
 
 🌏 Based in Indonesia  
 📡 Currently patching reality  
-🎯 Grinding Final Capstone
+🎯 Grinding Final Capstone  
+🎮 Side hobby: staring at cables and questioning life
 
 ---
 
@@ -79,7 +97,10 @@ I make them.
 
 ## 🧠 Life Philosophy
 
-> If it breaks, cool. Now I get to fix it.
+> If it breaks, cool.  
+> Now I get to fix it.
+
+> If nothing breaks, I'm suspicious.
 
 ---
 
@@ -94,7 +115,8 @@ I make them.
 ---
 
 <p align="center">
-  <code>"Hack. Patch. Deploy. Repeat."</code>
+  <code>"Hack. Patch. Deploy. Repeat."</code><br>
+  <sub>(and pray nothing explodes)</sub>
 </p>
 
 <p align="center">
