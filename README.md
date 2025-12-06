@@ -1,55 +1,69 @@
-<!-- 🔥 Banner Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:2c96f7&height=200&section=header&text=Rudy&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h2 align="center">🛰️ Network Dev • 🧠 Code Hacker • 🛠️ Cyberpunk Engineer</h2>
 
----
-
-<!-- 🧠 Avatar -->
 <p align="center">
-  <img src="assets/avatar.png" width="250" style="border-radius:50%" alt="Avatar Rudy"/>
+  <img src="assets/avatar.png" width="230" style="border-radius:50%" />
 </p>
 
 ---
 
-<!-- 🎴 Cyber Dev Card -->
-<h2 align="center">🦾 System Identity -Ｇ̨͓͈̩͙̪̬̥͔̝̪̟̥̯̚̕͟͠͠͠͝͝r̴̴͜͞u̶̘͓̫͈͔͉̮̲̱̼̲̞͜͜͜͠͝͞͠ͅͅͅͅd̵̸̛͎̮̰̮͍̠͜͜͢͝͠͞͠͠͠y̶̸͇͎̝̼̞̱͍͍̳̼͜͠͠.̼͓̟̬͓̲̜̮͍̱͖͔̥̰̠̳͕͇̳͘͟͟͢͟͝͞͝͝ͅe̴͖̞͎̤̳̜̤̠̞̩͕͎̯̮͕͚̮̫̟͎̳̲̙͉͙͙̱͍̮͜͜͢͡͝͠͞͞͞ͅx̴̨͕̝̘̮̥̙̼̘̘͉̝̺͓̫̟̰̪̼͓̞̲̠͚͓͟͟͞͠͝͠͝͝ͅͅͅe̷͔͎͕̥̬̩̦̺͍̫͍̜̘͓͕̟͚̠͇͎͕͟͠</h2>
+## 🦾 System Identity
 
-<p align="center">
-  
-🪪 <strong>Alias:</strong> <code>rudy</code><br>
-💾 <strong>Role:</strong> Informatics Engineer | Network Tinkerer<br>
-🎮 <strong>Skills:</strong> Python | PyQt5 | SQLite | ESP8266 | Arduino | PHP | JS | Mikrotik<br>
-🧰 <strong>Framework:</strong> UMKM Catalog App v1.0 (PyQt5+SQLite)<br>
-🔬 <strong>Perks:</strong> AI CRUD Deployment | UI Mutator | Debugging Tank<br>
-🧠 <strong>Passive:</strong> Serial Monitor Instinct<br>
-📡 <strong>Status:</strong> Active in dev-net @Indonesia<br>
-☕ <strong>Buffs:</strong> 3x Kopi Tubruk | 7x StackOverflow | 1x CTRL+ALT+Z<br>
-📅 <strong>Mission:</strong> Final Capstone — <em>“Integrate or Die Trying”</em><br>
+> Side Quest: survive the network, survive the deadline.
 
-<br>
+**Buffs Applied:**
+- ☕ **3x Kopi Tubruk** (Stamina +10)
+- 🔧 **7x StackOverflow** (Wisdom +50)
+- 🔄 **CTRL+ALT+Z** (Undo Reality)
+- ⌛ **Latency Immunity** (Experimental)
 
-✨ <strong>Catchphrase:</strong><br>
-<code>"Hack. Patch. Deploy. Repeat."</code>
-
-</p>
+**Passives:**
+- Serial Monitor Instinct
+- Can smell burned PCB from 30 meters
 
 ---
 
-<!-- 💠 QR LinkedIn -->
-<h2 align="center">🔗 Neural Link</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rudyyy">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://www.linkedin.com/in/rudyyy&size=150x150" alt="QR Code to LinkedIn" />
-  </a>
-</p>
+## 🔥 Role & Skills
+
+🪪 **Alias:** `rudy`  
+🧭 **Class:** Informatics Engineer  
+🛰️ **Specialty:** Systems that shouldn’t work… working anyway
+
+🧠 **Skill Tree:**
+- Python / PyQt5 / SQLite
+- Arduino / ESP8266
+- MikroTik / Ruijie
+- Debugging at 2 AM with coffee and regret
 
 ---
 
-<!-- ⚙️ Tech Stack -->
-### ⚙️ Tech Stack
+## 🚀 Mission
+
+> “Integrate or die trying.”
+
+Everything must talk:
+- Apps
+- Networks
+- Sensors
+- Databases
+
+If they don’t…  
+I make them.
+
+---
+
+## 📡 Active Zone
+
+🌏 Based in Indonesia  
+📡 Currently patching reality  
+🎯 Grinding Final Capstone
+
+---
+
+## ☣️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -57,23 +71,32 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP8266-2C3E50?style=flat"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MikroTik-000000?style=flat&logo=raspberrypi&logoColor=white" alt="MikroTik Badge" />
-  <img src="https://img.shields.io/badge/Ruijie-cc0000?style=flat&logo=redhat&logoColor=white" alt="Ruijie Badge" />
-
-
+  <img src="https://img.shields.io/badge/MikroTik-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Ruijie-cc0000?style=flat"/>
 </p>
 
 ---
 
+## 🧠 Life Philosophy
 
+> If it breaks, cool. Now I get to fix it.
+
+---
+
+## 🔗 Neural Link
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudyyy">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://www.linkedin.com/in/rudyyy&size=150x150" />
+  </a>
 </p>
 
 ---
 
-<!-- 🎯 Footer -->
+<p align="center">
+  <code>"Hack. Patch. Deploy. Repeat."</code>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c96f7,100:6e40c9&height=120&section=footer"/>
 </p>
