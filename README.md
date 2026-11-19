@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,52:312e81,100:065f46&height=210&section=header&text=RUDY&fontSize=54&fontColor=f5f5f7&fontAlignY=40&desc=Code%20that%20understands%20the%20fiber%20below.&descSize=16&descAlignY=66&descColor=e4e4e7" alt="Rudy — Fullstack Developer & Network Operation Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,50:312e81,100:065f46&height=200&section=header&text=Rudy&fontSize=44&fontColor=f5f5f7&desc=Code%20that%20understands%20the%20fiber%20below.&descSize=15&descAlignY=70&descColor=e4e4e7" alt="Rudy Header" />
 </p>
 
+<h3 align="center">🛰️ Fullstack Dev • 🌐 Network Ops • 🛠️ Infrastructure-Aware Engineer</h3>
+
 <p align="center">
-  <strong>Fullstack Developer &amp; Infrastructure-Aware Engineer</strong><br />
-  <sub>FTTH × Fullstack · Banjarmasin, South Kalimantan, Indonesia</sub>
+  <a href="https://rudy0317.github.io/rudy-dev/">
+    <img src="assets/avatar.png" width="240" alt="Rudy Operator Card" />
+  </a>
 </p>
 
 <p align="center">
@@ -24,111 +27,127 @@
 
 ---
 
-### `01 · INTRO`
+## 🦾 System Identity
 
-Bridging **Laravel, React, and Docker** software systems with hands-on **FTTH optical distribution, MikroTik routing, and 600-core fiber infrastructure**.
+> Side Quest: survive the network, survive the deadline.  
+> Main Quest: pretend everything is fine.
 
-| Metric | Highlight |
-| :--- | :--- |
-| **`5+ YRS`** | Field telecom operations & fullstack engineering experience |
-| **`>99%`** | SLA network recovery across FTTH access & distribution segments |
-| **`1000+`** | Core fiber optic spliced (PLN trunk infrastructure & mass outage recovery) |
-| **`3.79 / 4.0`** | Informatics Engineering GPA at UNISKA MAB (Semester 1–7) |
+**Buffs Applied:**
+- ☕ **3x Kopi Tubruk** (Brain Overclock)
+- 🔧 **7x StackOverflow & Docs** (Ancient Wisdom)
+- 🔄 **CTRL+ALT+Z** (Time Reversal)
+- ⌛ **Latency Immunity** (SLA >99%, mostly stable)
 
----
-
-### `02 · EXPERIENCE`
-
-| Period | Role | Organization | Focus |
-| :--- | :--- | :--- | :--- |
-| **Sep 2026 – Present** | Network Operation Engineer (Distribution & Access) | **PT Supra Primatama Nusantara (Biznet)** | End-to-end optical distribution & access installation, fault isolation, preventive & corrective maintenance |
-| **May 2026 – Oct 2026** | Web Developer / Fullstack & DevOps | **Telkom Akses** | Fullstack operational & infrastructure monitoring apps, server deployment, bridging FTTH/routing systems with internal web tools |
-| **Jan 2023 – Apr 2026** | Network Engineer — Access / IOAN | **PT Upaya Tehnik** | FTTH troubleshooting (`ODP–ODC–FTM`), OLT verification (ONT, LOS/LOF, VLAN), outage recovery maintaining `>99%` SLA |
-| **Apr 2021 – Dec 2022** | Quality Engineer — FTTH Access | **PT Upaya Tehnik** | Mass outage recovery support, field-to-topology optical audits, access network quality assurance |
-| **Jan 2020 – Mar 2020** | Network Assurance (Internship) | **PT Upaya Tehnik** | Service recovery support, optical line quality checks, assurance & escalation workflows |
-
-> Full timeline & field evidence → [rudy0317.github.io/rudy-dev/#field](https://rudy0317.github.io/rudy-dev/#field)
+**Passives:**
+- OTDR & Optical Power Instinct
+- Can spot a red LOS blink from 30 meters
+- +5 sarcasm when bug or outage appears
 
 ---
 
-### `03 · SELECTED WORKS`
+## 🔥 Role & Skills
 
-- **Fullstack FTTH & Server Monitoring Web Apps** — *Telkom Akses (2026)*  
-  Operational dashboard connecting OLT/Router status APIs with real-time UI, containerized with Docker for automated internal deployment.  
-  `Laravel` · `React` · `Docker` · `REST API` · `TailwindCSS`
+🪪 **Alias:** `rudy`  
+🧭 **Class:** Fullstack Dev × Network Operation Engineer  
+🛰️ **Specialty:** Making systems that shouldn't work… work anyway *(code that understands the fiber below)*
 
-- **Campus & Hospital Network Infrastructure** — *Banjarmasin (Feb 2026)*  
-  Structured cabling and core MikroTik router deployment with VLAN segmentation, PPPoE server, and Queue Tree / PCQ bandwidth management for zero-downtime operations.  
-  `MikroTik RouterOS` · `VLAN` · `PPPoE` · `Queue Tree` · `PCQ`
+🧠 **Skill Tree:**
+- Laravel / React / TypeScript / REST API
+- Docker / Linux Server / Nginx
+- MikroTik RouterOS / VLAN / PPPoE / Queue Tree
+- FTTH Optics (OLT/ONT, ODP–ODC–FTM, Splicing)
+- Debugging at 2 AM with coffee & regret
 
-- **Fiber Optic Jointer — PLN 600-Core Cable Project** — *Banjarmasin (Dec 2025)*  
-  High-precision fusion splicing for 600-core trunk cable maintaining `<0.02dB` loss per joint under K3 field safety standards.  
-  `Fusion Splicer` · `OTDR` · `600-Core Cable` · `FTM` · `K3 Safety`
-
-- **Enterprise Home Lab Network Infrastructure** — *Banjarmasin (2021 – Present)*  
-  Personal lab simulating VLANs, PPPoE authentication, failover routing, and containerized network services on Linux & Docker.  
-  `MikroTik` · `Linux Server` · `Docker` · `VLAN` · `WireGuard`
-
-> Interactive project showcase & photo gallery → [rudy0317.github.io/rudy-dev/#works](https://rudy0317.github.io/rudy-dev/#works)
+🧯 **Ultimate:**  
+`fix: I don't know how, but it works now`
 
 ---
 
-### `04 · CAPABILITIES`
+## 🚀 Mission
 
-**Web Development**  
-![Laravel](https://img.shields.io/badge/Laravel-11131a?style=flat-square&logo=laravel&logoColor=818cf8)
-![React](https://img.shields.io/badge/React.js-11131a?style=flat-square&logo=react&logoColor=818cf8)
-![TypeScript](https://img.shields.io/badge/TypeScript-11131a?style=flat-square&logo=typescript&logoColor=818cf8)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-11131a?style=flat-square&logo=codeigniter&logoColor=818cf8)
-![Python](https://img.shields.io/badge/Python-11131a?style=flat-square&logo=python&logoColor=818cf8)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-11131a?style=flat-square&logo=tailwindcss&logoColor=818cf8)
-![REST API](https://img.shields.io/badge/REST_API-11131a?style=flat-square)
-![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-11131a?style=flat-square&logo=html5&logoColor=818cf8)
+> “Integrate or die trying.”
 
-**DevOps & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-11131a?style=flat-square&logo=docker&logoColor=6ee7b7)
-![Linux](https://img.shields.io/badge/Linux_Server_Admin-11131a?style=flat-square&logo=linux&logoColor=6ee7b7)
-![Nginx](https://img.shields.io/badge/Nginx-11131a?style=flat-square&logo=nginx&logoColor=6ee7b7)
-![Git](https://img.shields.io/badge/Git_%2F_GitHub-11131a?style=flat-square&logo=git&logoColor=6ee7b7)
-![CI/CD](https://img.shields.io/badge/CI%2FCD_%28Learning%29-11131a?style=flat-square)
-![System Deployment](https://img.shields.io/badge/System_Deployment-11131a?style=flat-square)
+Everything must talk:
+- Web Apps
+- Networks & Optical Nodes
+- Containers
+- Databases
 
-**Networking & FTTH Operations**  
-![MikroTik](https://img.shields.io/badge/MikroTik_RouterOS-11131a?style=flat-square&logo=mikrotik&logoColor=e4e4e7)
-![TCP/IP & VLAN](https://img.shields.io/badge/TCP%2FIP_%7C_VLAN-11131a?style=flat-square)
-![PPPoE & QoS](https://img.shields.io/badge/PPPoE_%7C_Queue_Tree_%2F_PCQ-11131a?style=flat-square)
-![OLT/ONT](https://img.shields.io/badge/OLT_%28ZTE%2FHuawei%29_%7C_ONT-11131a?style=flat-square)
-![FTTH](https://img.shields.io/badge/ODP_%2F_ODC_%2F_FTM-11131a?style=flat-square)
-![OTDR](https://img.shields.io/badge/OTDR_Splicing_%7C_SLA_Assurance-11131a?style=flat-square)
+If they don’t communicate?  
+I stand behind them with coffee and threats.
 
 ---
 
-### `05 · CREDENTIALS & EDUCATION`
+## ⚡ Personality Patch Notes
 
-- **Universitas Islam Kalimantan Selatan (UNISKA MAB)** — Informatics Engineering *(Expected 2027 · GPA `3.79 / 4.0`, Sem 1–7)*
-- **SMKN 1 Banjarmasin** — Computer & Network Engineering / TKJ *(2018–2021 · Final Score `84.50`)*
-- **Verified Certifications (19):**
-  - **Cisco Networking Academy (5):** CCNA Enterprise Networking & Security, Introduction to Networks, Switching & Routing Essentials, Network Basics, Cybersecurity Essentials
-  - **Telkom Akses (8):** Assurance Basic, Provisioning Basic, Service Deploy Technician, IndiHome 3P Network, K3 Basic & Safety Standards, Code of Conduct, E-Learning AKHLAK, Effective Communication
-  - **IBM Credly (2):** Code Generation & Optimization Using IBM, Data Classification & Security
-  - **Academic & University (4):** Web Development Practicum 2, Data Science, Graphic Design Practicum, PPN
+- Calm under pressure  
+- Laughs at error messages  
+- Treats warnings as friendly suggestions  
+- Believes clean logs beat guesswork (most of the time)
 
-> View certificates & verification → [rudy0317.github.io/rudy-dev/#credentials](https://rudy0317.github.io/rudy-dev/#credentials) · [Credly Profile](https://www.credly.com/users/rudy-network)
+If system goes boom:
+> “Cool, new challenge.”
 
 ---
 
-### `06 · CONNECT`
+## 📡 Active Zone
 
-> **Let's build resilient systems.**  
-> Open for Fullstack Engineering (Laravel / React), Docker infrastructure, and network-integrated operational tooling.
+🌏 Based in Banjarmasin, Indonesia  
+📡 Currently keeping Distribution & Access ops alive @ **Biznet**  
+🐳 Shipping **Laravel · React · Docker** apps & internal tooling  
+🎮 Side hobby: staring at fiber patch panels, MikroTik logs & home lab cables  
+
+---
+
+## ☣️ Tech Stack
 
 <p align="center">
-  <a href="https://rudy0317.github.io/rudy-dev/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/rudyyy">LinkedIn</a> ·
-  <a href="https://www.credly.com/users/rudy-network">Credly</a> ·
-  <a href="mailto:rudy2310010148@gmail.com">rudy2310010148@gmail.com</a>
+  <img src="https://img.shields.io/badge/Laravel-11131a?style=flat-square&logo=laravel&logoColor=818cf8" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-11131a?style=flat-square&logo=react&logoColor=818cf8" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-11131a?style=flat-square&logo=typescript&logoColor=818cf8" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-11131a?style=flat-square&logo=python&logoColor=818cf8" alt="Python" />
+  <img src="https://img.shields.io/badge/TailwindCSS-11131a?style=flat-square&logo=tailwindcss&logoColor=818cf8" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Docker-11131a?style=flat-square&logo=docker&logoColor=6ee7b7" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-11131a?style=flat-square&logo=linux&logoColor=6ee7b7" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-11131a?style=flat-square&logo=nginx&logoColor=6ee7b7" alt="Nginx" />
+  <img src="https://img.shields.io/badge/MikroTik-11131a?style=flat-square&logo=mikrotik&logoColor=e4e4e7" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/FTTH_%7C_OLT-11131a?style=flat-square" alt="FTTH and OLT" />
+</p>
+
+---
+
+## 🧠 Life Philosophy
+
+> If it breaks, cool.  
+> Now I get to fix it.
+
+> If nothing breaks, I'm suspicious.
+
+---
+
+## 🔗 Neural Link
+
+<p align="center">
+  <a href="https://rudy0317.github.io/rudy-dev/">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://rudy0317.github.io/rudy-dev/&size=140x140&bgcolor=f5f5f7&color=0b0c10&margin=8" alt="Portfolio QR Code" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rudyyy">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://www.linkedin.com/in/rudyyy&size=140x140&bgcolor=f5f5f7&color=312e81&margin=8" alt="LinkedIn QR Code" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,48:312e81,100:0b0c10&height=110&section=footer" alt="Footer wave" />
+  <sub>Left: <a href="https://rudy0317.github.io/rudy-dev/">Portfolio</a> · Right: <a href="https://www.linkedin.com/in/rudyyy">LinkedIn</a></sub>
+</p>
+
+---
+
+<p align="center">
+  <code>"Hack. Patch. Deploy. Repeat."</code><br />
+  <sub>(and pray nothing explodes)</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,50:312e81,100:0b0c10&height=120&section=footer" alt="Footer" />
 </p>
